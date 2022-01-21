@@ -1,0 +1,16 @@
+.slider-img img{
+    width: 100px;
+}
+.custom-bg{
+    background-color:#FCEAE8;
+}
+button.custom-btn {
+    background: #b97474;
+    border: navajowhite;
+    padding: 10px 25px;
+    border-radius: 50px;
+    color: #fff;
+}
+#categories-bg{
+    background: orchid;
+}
